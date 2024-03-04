@@ -9,3 +9,6 @@ Pandamonium offers a fierce fuzz that is sure to start a frenzy with even the mo
 ## [Party Panda - Univibe](https://github.com/mattanikiej/party-panda-univibe)
 For a groovy feel, or a vibe like no other, Party Panda can do it all. Its unique character is more than your typical modulation. For both ragers and kickbacks, Party Panda will fit your vibe perfectly!
 
+## [Bamboo Forest - Ghost Chorus](https://github.com/mattanikiej/bamboo-forest-ghost-chorus)
+For a twinkling delay and a spacious chorus, the Bamboo Forest can give a surreal effect to your audio. Increasing Ghost decreases the initial chorus effect, while keeping it intact in the delay signal. This creates a cool vibe as if a chorus of ghosts is helping you along.
+
